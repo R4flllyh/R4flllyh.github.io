@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+body {
+  position: relative;
+}
+
+.container .navbar-brand {
+  font-size: 20px;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+
+.navbar-collapse {
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: rgb(228, 228, 228);
+}
+
+#profil .container .justify-content .col-md-4 p {
+  font-family: "poppins", sans-serif;
+}
+
+.jumbotron .display-5 {
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+#profil .container .row .col h2 {
+  font-weight: bold;
+}
+
+#media .container .row .col h2 {
+  font-weight: bold;
+}
+#media .container .content-media a {
+  display: inline;
+}
+
+#contact .container .row .col h2 {
+  font-weight: bold;
+}
+
+#media {
+  background-color: rgb(228, 228, 228);
+}
+
+.nav-link:hover {
+  color: white;
+  background-color: rgb(228, 228, 228);
+  border-radius: 15px;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+.content-media .insta-text {
+  padding-top: 3px;
+  padding-left: 6px;
+}
+
+#profil,
+#media,
+#contact,
+.email-text,
+.whatsapp-text {
+  letter-spacing: 1px;
+}
