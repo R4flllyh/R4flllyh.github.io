@@ -69,3 +69,7 @@ html {
 .whatsapp-text {
   letter-spacing: 1px;
 }
+
+#contact .container .pt-3 .contact-text {
+  padding-left: 10px;
+}
