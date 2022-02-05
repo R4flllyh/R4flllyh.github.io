@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
 
-body {
+/* body {
   position: relative;
-}
+} */
 
 .container .navbar-brand {
   font-size: 20px;
@@ -16,7 +16,7 @@ body {
 }
 
 .jumbotron {
-  padding-top: 2rem;
+  padding-top: 6rem;
   background-color: rgb(228, 228, 228);
 }
 
