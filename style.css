@@ -36,8 +36,13 @@
 #media .container .row .col h2 {
   font-weight: bold;
 }
+
 #media .container .content-media a {
   display: inline;
+}
+
+#project .container .mb-5 .pt-5 h2 {
+  font-weight: bold;
 }
 
 #contact .container .row .col h2 {
